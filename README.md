@@ -13,6 +13,8 @@ Projeto da **Semana Omnistack 11.0**!
 - [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [JavaScript](https://www.javascript.com/)
 
+---
+
 ## 📁 Como baixar o repositório
 
 ```bash
